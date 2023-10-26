@@ -43,7 +43,7 @@ if parOn && isempty(gcp('nocreate'))
 end
 
 %% Load data
-filenme = '../Data/NORA10.mat';
+filenme = '../Data/data.mat';
 data = getData(filenme);
 
 %% Marginal Models: HS
