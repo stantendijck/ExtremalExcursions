@@ -1,3 +1,3 @@
-# TemporalExtremes
-2 dependent repositories:
-- BayesianAdaptiveSplines + MetOcean_PPC_CE
+# ExtremalExcursions
+1 dependent repository:
+- https://github.com/sede-open/covXtreme
